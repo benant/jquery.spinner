@@ -4,6 +4,8 @@
 [![Build Status](https://travis-ci.org/vsn4ik/jquery.spinner.svg)](https://travis-ci.org/vsn4ik/jquery.spinner)
 [![devDependency Status](https://david-dm.org/vsn4ik/jquery.spinner/dev-status.svg)](https://david-dm.org/vsn4ik/jquery.spinner?type=dev)
 
+콤마를 원해서 ...  
+
 
 A Number-Spinner based-on jQuery, Support Keyboard operations and continuous changing.
 
